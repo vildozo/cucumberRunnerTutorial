@@ -39,21 +39,21 @@ formatter.match({
   "location": "stepDefinition.givenStatment()"
 });
 formatter.result({
-  "duration": 456823806,
+  "duration": 628577543,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.whenStatement()"
 });
 formatter.result({
-  "duration": 542443,
+  "duration": 539635,
   "status": "passed"
 });
 formatter.match({
   "location": "stepDefinition.thenStatment()"
 });
 formatter.result({
-  "duration": 129571,
+  "duration": 378558,
   "status": "passed"
 });
 });
